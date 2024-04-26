@@ -8,7 +8,11 @@
 
 ## How to run
 
-<p>First you need a runtime installed, Node suggestion. Run with: <b>node index.js</b></p>
+<p>First you need a runtime installed, Node suggestion. Run with:</p>
+
+```
+node index.js
+```
 
 ## About the code
 
